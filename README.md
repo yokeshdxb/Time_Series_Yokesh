@@ -120,7 +120,7 @@ Developed by **Yokesh Kumar**
 
 ## 🔗 See Also
 
-- Time Series Analysis on PJME & Google Trends
+- Time Series Analysis on PJME & Diet
 
 ---
 
