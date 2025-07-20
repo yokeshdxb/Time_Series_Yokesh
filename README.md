@@ -1,5 +1,5 @@
 
-# 🪙 Gold Price Prediction Using Time Series (ARIMA & SARIMA Models)
+# 🪙 Yokesh Gold Price Prediction Using Time Series (ARIMA & SARIMA Models)
 
 This repository presents a comprehensive **time series forecasting** solution for monthly gold prices utilizing **ARIMA** and **SARIMA** techniques. It also includes an interactive **Streamlit-based application** for model testing, selection, and live forecasting.
 
