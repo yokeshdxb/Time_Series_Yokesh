@@ -67,8 +67,6 @@ streamlit run app_time.py
 
 *Below is a SARIMA-based forecast showing the predicted path (green) along with a 95% confidence interval:*
 
-![Forecast Example](https://github.com/yokeshdxb/Time_Series_Yokesh/main/Sarima_Price_Forecast.png)
-
 ---
 
 ## 📊 Model Overview
